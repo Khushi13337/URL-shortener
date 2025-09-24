@@ -3,9 +3,13 @@ Project name: URL Shortner
 Project Description: The tech stack used in the project is: -
 
 1.ReactJS:- The primary frontend JavaScript library
+
 2.Redux:- Used together with ReactJS to manage and centralize the application state
+
 3.CSS:- Used to provide the website with custom design elements. 
+
 4.NodeJS:- Runtime environment for the backend server 
+
 5.MongoDB:- Non-relational database system for storing data.
 
 In the project directory, you can run:
