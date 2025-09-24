@@ -1,11 +1,13 @@
-Project name
-URL Shortner
+Project name: URL Shortner
 
-Project Description
-This is the repository for the final submission of the ACM open project. The tech stack used in the project is: -
+Project Description: The tech stack used in the project is: -
 
-ReactJS:- The primary frontend JavaScript library
-Redux:- Used together with ReactJS to manage and centralize the application state 3.CSS:- Used to provide the website with custom design elements. 4.NodeJS:- Runtime environment for the backend server 5.MongoDB:- Non-relational database system for storing data.
+1.ReactJS:- The primary frontend JavaScript library
+2.Redux:- Used together with ReactJS to manage and centralize the application state
+3.CSS:- Used to provide the website with custom design elements. 
+4.NodeJS:- Runtime environment for the backend server 
+5.MongoDB:- Non-relational database system for storing data.
+
 In the project directory, you can run:
 npm install
 Above command can be used on the shortner_frontend side to install dependencies
@@ -19,17 +21,19 @@ Above command can be used on the shortner_frontend side to run client side
 npm start
 Above command can be used on the shortner_backend side to run server side
 
-Internal working of the project
-Backend
-Authentication using bcrypt and jsonwebtoken while logging in and signup.
-Shortening of URL using shortid
-Search functionality using MongoDB atlas search.
-Fetching of all URLs with their notes and shortid in addition to its earlier extended URL.
-Frontend
-Login and Signup page for authentication
-Home page to get information about the website
-The actual feature page consists of an area for notes and URL pasting to get shortened URL.
-Implemented authorization to keep user data secure and private
+Internal working of the project:-
+
+Backend:
+1.Authentication using bcrypt and jsonwebtoken while logging in and signup.
+2.Shortening of URL using shortid
+3.Search functionality using MongoDB atlas search.
+4.Fetching of all URLs with their notes and shortid in addition to its earlier extended URL.
+
+Frontend:
+1.Login and Signup page for authentication
+2.Home page to get information about the website
+3.The actual feature page consists of an area for notes and URL pasting to get shortened URL.
+4.Implemented authorization to keep user data secure and private
 
 
 References
